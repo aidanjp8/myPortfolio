@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.3ac995d6.css",
+    "main.js": "/myPortfolio/static/js/main.5b478d63.js",
+    "static/media/AidanGrad43rdSt.png": "/myPortfolio/static/media/AidanGrad43rdSt.921fb92fce1533b04844.png",
+    "static/media/ODK 1.5_Implementing ODK Collect in 2024.pdf": "/myPortfolio/static/media/ODK 1.5_Implementing ODK Collect in 2024.3885c03a2729de60681f.pdf",
+    "static/media/Requirements & Team Policies-2.pdf": "/myPortfolio/static/media/Requirements & Team Policies-2.6921d58306eb16ab880d.pdf",
+    "static/media/calendarj.pdf": "/myPortfolio/static/media/calendarj.c2384c1868fe06a74a77.pdf",
+    "static/media/moodtracker.png": "/myPortfolio/static/media/moodtracker.a72e629fc943459dd205.png",
+    "static/media/odk.jpg": "/myPortfolio/static/media/odk.3c5e0608320f1c7bde0b.jpg",
+    "index.html": "/myPortfolio/index.html",
+    "main.3ac995d6.css.map": "/myPortfolio/static/css/main.3ac995d6.css.map",
+    "main.5b478d63.js.map": "/myPortfolio/static/js/main.5b478d63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac995d6.css",
+    "static/js/main.5b478d63.js"
+  ]
+}
