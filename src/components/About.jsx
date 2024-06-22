@@ -29,10 +29,7 @@ const About = () => {
                 {" "}
                 I am from a small town on the Olympic Peninsula of Washington State 
                 and started classes at the University of Washington as an early entrance 
-                student in computer science. During my coursework, I have honed my skills 
-                in building complex applications, including my senior capstone project
-                 highlighted in my resume. My team created an updated version of Open Data Kit,
-                  a widely used service for medical surveys in areas with limited resources. 
+                student in computer science. 
                   I pride myself on my ability to work well in groups, both large and small. 
                   Building strong relationships with coworkers is very important to me. 
                   While working as a lifeguard and park aide, I was well-regarded for my tenacity, 
