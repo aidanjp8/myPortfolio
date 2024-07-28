@@ -15,11 +15,11 @@ const Home = () => {
           Aidan Petta
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-        I am a recent graduate of the University of Washington 
-        Paul G. Allen School for Computer Science and Engineering. As a student, 
-        I studied extensively in object-oriented programming, algorithms, 
+        I am a June 2024 graduate of the Paul G. Allen School of Computer Science and Engineering at the University of Washington 
+        . I am relocating to 
+        Omaha, Nebraska. I studied extensively in object-oriented programming, algorithms, 
         software design, and software engineering. I'm an excellent communicator, 
-        team player, active listener, and self-motivated.
+        team player, and self-motivated. 
         </p>
         <div>
           <Link

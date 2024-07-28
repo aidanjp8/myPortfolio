@@ -4,16 +4,17 @@ import odkpic from '../assets/odk.jpg';
 import getitdone from '../assets/Requirements & Team Policies-2.pdf';
 import calendarpic from '../assets/calendarj.pdf';
 import moodtracker from '../assets/moodtracker.png';
+import calendar from '../assets/calendar-icon-png-free-vector.jpeg';
 
 const Projects = () => {
   return (
-    <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
+    <div name='projects' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8 w-full flex justify-center items-center flex-col'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-cyan-500'>
-            Work
+            Projects
           </p>
-          <p className='py-6 text-2xl'>Here is some of my recennt work.</p>
+          <p className='py-6 text-2xl'>Here is some of my recent work.</p>
         </div>
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4'>
           {/* Project 1 */}
@@ -43,7 +44,7 @@ const Projects = () => {
 
           {/* Project 2 */}
           <div
-            style={{ backgroundImage: `url(${calendarpic})` }}
+            style={{ backgroundImage: `url(${calendar})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
